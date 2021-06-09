@@ -56,6 +56,12 @@ Task I have done to find the meaningful insight of data "stock market"
 * Apply Auto Arima on data
 * Evaluating Time Series Model
 
+## Benefits of doing project 
+
+* Learning real data and real-world problems.
+* Dealing with importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning , NLP & Time Series and Data Presentation.
+* practice andd learning by doing.
+
 ## Summary 
 
 * Project #1 @Predict Price of Airlines Industry : Develop an AI model to predict Fare of Airlines at various Routes.
@@ -63,11 +69,4 @@ Task I have done to find the meaningful insight of data "stock market"
 * Project #2 @Predict the strength of a Password: Predict the category of Password whether it is Strong, Good or Weak.
 
 * Project #3 @Predict Prices of a Stock: Develop time series forecasting models to predict future Stock prices.
-
-## Benefits of doing project 
-
-* Learning real data and real-world problems.
-* Dealing with importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning , NLP & Time Series and Data Presentation.
-* practice andd learning by doing.
-
 
