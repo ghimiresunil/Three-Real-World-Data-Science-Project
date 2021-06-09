@@ -44,3 +44,27 @@ Task I have done to find the meaningful insight of data "password"
 * Predict Password users password
 * Checking accuracy of the model
 * Model hyperparameter tuning
+
+## Predict the prices of stock using Automated Time Series Algorithms 
+
+And, the third use case is exactly of time series analysis use case in which I am going to consider data of the Stock Market. So, I have to analyze the huge chunk of data. And from this, I have to extract some insights. And at the end, I have to predict exactly can be the prices of a stock using some advanced and fancy time series analysis (i.e. Auto Arima) algorithms.
+
+Task I have done to find the meaningful insight of data "stock market"
+
+* Analyzing time-series data
+* Data Preprocessing for time series forecasting
+* Apply Auto Arima on data
+* Evaluating Time Series Model
+
+## Summary 
+
+* Project #1 @Predict Price of Airlines Industry : Develop an AI model to predict Fare of Airlines at various Routes.
+
+* Project #2 @Predict the strength of a Password: Predict the category of Password whether it is Strong, Good or Weak.
+
+* Project #3 @Predict Prices of a Stock: Develop time series forecasting models to predict future Stock prices.
+
+## Benefits of doing project 
+
+* Learning real data and real-world problems.
+* 
