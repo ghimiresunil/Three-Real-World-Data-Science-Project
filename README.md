@@ -67,4 +67,7 @@ Task I have done to find the meaningful insight of data "stock market"
 ## Benefits of doing project 
 
 * Learning real data and real-world problems.
-* 
+* Dealing with importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning , NLP & Time Series and Data Presentation.
+* practice andd learning by doing.
+
+
