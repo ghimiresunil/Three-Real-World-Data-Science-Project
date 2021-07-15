@@ -1,5 +1,5 @@
 # Three Real-World Data Science Project
-
+![real_world_data_science_project](https://user-images.githubusercontent.com/40186859/123504594-187afe80-d67a-11eb-9b74-5c8e8c356356.jpg)
 
 ## Brief Introduction
 
